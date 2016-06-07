@@ -1,1 +1,1 @@
-Sripts for env/system setup.
+Scripts for env/system setup.
