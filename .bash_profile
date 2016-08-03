@@ -22,7 +22,7 @@ alias graph='git log --oneline --graph --decorate'
 alias stash='git stash'
 alias gadd='git add .'
 alias branches='git branch --all'
-alias prune='git fetach --all --prune && git branch --all'
+alias prune='git fetch --all --prune && git branch --all'
 alias globalnpm='npm list -g --depth=0 && echo "npm" && npm --version && echo "node" && node --version'
 alias npmi='npm set progress=false && npm i && npm set progress=true'
 
