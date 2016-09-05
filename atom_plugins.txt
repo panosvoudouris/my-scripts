@@ -1,0 +1,13 @@
+open-recent
+atom-typescript
+autocomplete-modules
+editorconfig
+file-icons
+highlight-selected
+linter
+linter-eslint
+merge-conflicts
+minimap-split-diff
+react
+split-diff
+color-picker
